@@ -1,0 +1,6 @@
+wheel
+pyteal
+python-dotenv
+jupyterlab
+autopep8
+git+https://github.com/algorand/pyteal-utils.git@main
