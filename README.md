@@ -1,4 +1,4 @@
-# Ally for Algorand Governance
+# Algorand Governance
 
 - Install Docker and Docker-Compose.
 
